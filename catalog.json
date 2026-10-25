@@ -726,7 +726,13 @@
    "body_chars": 1872,
    "sha256_16": "80dc4634fcac3a64",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "busan-tentherma-17",
+     "date": "2026-10-26",
+     "note": "탄력 저하와 기미·잡티 병존 시 상담 순서 각도(원문의 색소 고민 소재 활용)"
+    }
+   ]
   },
   {
    "id": "047",
